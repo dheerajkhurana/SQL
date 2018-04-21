@@ -1,6 +1,6 @@
 # SQL
 
-Database queried link : https://www.kaggle.com/START-UMD/gtd
+Database link : https://www.kaggle.com/START-UMD/gtd
 
                                                       #Global Terrorism Dataset
                                                       
