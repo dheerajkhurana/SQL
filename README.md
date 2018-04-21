@@ -24,7 +24,7 @@ Hostage taking, Bombing.
  AttackTypeId
  AttackTypeName
 3. Target (Dimension table)
-P r o j e c t G r o u p 4 9 P a g e | 2
+
 - Provides the type of the target targeted by the terror group for ex.
 Government, Educational institution etc.
  TargetTypeId
